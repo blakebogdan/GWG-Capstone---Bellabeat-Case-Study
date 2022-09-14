@@ -1,3 +1,5 @@
+To view the project, download the .zip file, unzip the file, and then open the GWG-Bellabeat_Capstone_Case_Study.html
+
 # GWG-Capstone---Bellabeat-Case-Study
 Project files for my attempt at the Bellabeat case study, done as a capstone project for the "Google Data Analytics Certificate" coursework.
 
