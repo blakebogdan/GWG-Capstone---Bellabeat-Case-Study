@@ -1,5 +1,5 @@
 **VIEWING INSTRUCTIONS:**
-To view the project, click on the green "<> Code" button in the top right. Then, under the "Local" tab, select the "Download .zip" option at the bottom of the popout window. Once the file has downloaded, unzip the donwloaded file and you will see the following files:
+To view the project, click on the green "<> Code" button in the top right. Then, under the "Local" tab, select the "Download ZIP" option at the bottom of the popout window. Once the file has downloaded, unzip the donwloaded file and you will see the following files:
   1. **GWG-Bellabeat_Capstone_Case_Study.html - This is the file to review the final project. Right click on it and open with your preferred browser to review the final      project. This is an HTML output file based on the R markdown working file.**
   2. GWG-Bellabeat_Capstone_Case_Study.Rmd - The R markdown format version of the complete project. This file was the working copy and used to generate the HTML version.
   3. Various CSVs - Source data used in the project. Review the project to get more details about each file and how they were used.
