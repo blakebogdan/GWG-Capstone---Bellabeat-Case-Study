@@ -1,5 +1,3 @@
-***9/13/2022 NOTE - The current IDE I am using has limited use time per month, and I am out of credits for the month of September. Therefore, the project is in a content complete, but still rough draft state. There will be grammar issues/code inneficiencies. I will continue to refine this product once my use credits refresh in the future.
-
 VIEWING INSTRUCTIONS:
 To view the project, download the .zip file, unzip the file, and then open the GWG-Bellabeat_Capstone_Case_Study.html. File descriptions of those found in the .zip are detailed below:
   1. GWG-Bellabeat_Capstone_Case_Study.html - HTML output file of the complete project. This is the file to look at when reviewing this project.
